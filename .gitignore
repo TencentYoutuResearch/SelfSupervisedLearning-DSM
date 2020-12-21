@@ -1,0 +1,5 @@
+.idea
+/datasets/
+/src/byol_pytorch/
+/src/gan_pretext/
+/src/classification_pretext/
